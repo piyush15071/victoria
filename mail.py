@@ -95,8 +95,8 @@ def mail(receiver_email,device):
 	smtpObj.starttls()
 
 	# sender email and password
-	sender_email = 'piyush15071@gmail.com'
-	account_password = 'Dark717)held'
+	sender_email = ''
+	account_password = ''
     
     # try to login, a frequent error occurs here
 	try:	smtpObj.login(sender_email, account_password)
