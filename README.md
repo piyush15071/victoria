@@ -1,8 +1,10 @@
 # victoria
 IED Project 2017 - Voice Controlled Personal Assistant
 
-piyush/pi are the usernames
+‣ piyush/pi are the usernames
 
-/home/[piyush,pi]/final contains code
+    /home/[piyush,pi]/final contains code
 
-/home/[piyush,pi]/ied contains three folders viz, music, movies, photos
+    /home/[piyush,pi]/ied contains three folders viz, music, movies, photos
+
+‣ Insert Microsoft Bing API key in file conRecog.py line 78
