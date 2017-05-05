@@ -75,7 +75,7 @@ def bingRecog(audio):
 	outNumber = -1
 
 	try:
-		json = r.recognize_bing(audio, key="3442db648c654dcabd226893d5503a9d", show_all=True)
+		json = r.recognize_bing(audio, key="", show_all=True)
 		# check if success is returned or not
 		checkSuccess = (json[u'header'])[u'status']
 		
