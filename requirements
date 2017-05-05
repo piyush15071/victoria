@@ -1,0 +1,9 @@
+PyAudio - https://pypi.python.org/pypi/PyAudio
+Speech Recognition - sudo pip install SpeechRecognition
+gTTS - sudo pip install gTTS
+mplayer - sudo apt-get install mplayer
+bs4 - pip install bs4; pip install BeautifulSoup
+eog - sudo apt-get install eog; sudo apt-get install eog-plugins -y
+httplib2 - sudo apt-get install httplib2
+xautomation - sudo apt-get install xautomation
+termcolor - sudo pip install termcolor
